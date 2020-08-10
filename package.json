@@ -1,6 +1,6 @@
 {
   "name": "@reflexdemon/gradle-search",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI to search the Maven dependencies to show as Gradle dependency",
   "main": "src/index.js",
   "scripts": {
