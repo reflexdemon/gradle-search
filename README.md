@@ -11,7 +11,7 @@ search.maven.org
 Prerequisite: node `10.9.0` or newer should be installed.
 
 ```bash
-npm install -g gradle-search
+npm install -g @reflexdemon/gradle-search
 ```
 
 ## Usage: `gradle-search <query-string>`
